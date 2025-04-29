@@ -25,7 +25,7 @@ class Student {
     public static void main(String[] args) {
         // Creating Student objects
         Student student1 = new Student("Alice", 101);
-        Student student2 = new Student("Alice", 101);
+        Student student2 = new Student("Alice", 102);
 
         // Comparing the objects
         if (isEqual(student1, student2)) {
