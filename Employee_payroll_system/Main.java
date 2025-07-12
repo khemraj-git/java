@@ -1,8 +1,6 @@
 package Employee_payroll_system;
 
-import java.sql.SQLOutput;
 import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 abstract class Employee{
