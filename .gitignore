@@ -1,0 +1,9 @@
+# Ignore IntelliJ project files
+.idea/
+*.iml
+
+# Ignore build folder
+out/
+
+# Ignore nested src folders (optional if you move code out of it)
+src/
