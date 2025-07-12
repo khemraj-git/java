@@ -1,4 +1,4 @@
-
+package Calculator;
 //Write a Java program that performs basic arithmetic operations using a menu-driven approach with looping:
 //Requirements:
 //Prompt the user to enter two numbers (float or double).
